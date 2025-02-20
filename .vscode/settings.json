@@ -1,0 +1,17 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "./lib/jackson-dataformat-yaml-2.18.2.jar",
+        "./lib/jackson-annotations-2.18.2.jar",
+        "./lib/stax2-api-4.2.2.jar",
+        "./lib/jackson-databind-2.18.2.jar",
+        "./lib/woodstox-core-7.1.0.jar",
+        "./lib/snakeyaml-2.4.jar",
+        "./lib/jackson-dataformat-xml-2.18.2.jar",
+        "./lib/jaxb-api-2.3.0.jar",
+        "./lib/jackson-core-2.18.2.jar",
+        "./lib/gson-2.12.1.jar"
+    ]
+}
